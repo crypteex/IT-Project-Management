@@ -10,11 +10,3 @@ Detect fake news in text, image, and video formats.
 Integrate with social media platforms and online news outlets.
 Support data privacy, cybersecurity, and multilingual adaptability.
 Improve public digital literacy and media transparency
-
-
-Contribution of mine is:
-• Created the Project Charter defining goals, scope, and stakeholders.
-• Built a detailed Gantt Chart outlining all project phases from initiation to deployment.
-• Identified and assessed key risks in the Risk Register, with strategies to mitigate or manage each.
-• Designed a Probability–Impact Matrix and Impact Value Criteria to rank and prioritize risks.
-• Defined response strategies for each risk (mitigation, avoidance, acceptance, or transference).
